@@ -1,0 +1,7 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "random": "cpp",
+        "stdio.h": "c"
+    }
+}

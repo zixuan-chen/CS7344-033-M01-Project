@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/mnt/c/Users/ChenZixuan/Desktop/Parallel-Programming-Project/hw2'
+mpicc -o mpi_hello_world mpi_hello_world.c
+make: Leaving directory '/mnt/c/Users/ChenZixuan/Desktop/Parallel-Programming-Project/hw2'
+ 
