@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/mnt/c/Users/ChenZixuan/Desktop/Parallel-Programming-Project/hw3'
+make: Leaving directory '/mnt/c/Users/ChenZixuan/Desktop/Parallel-Programming-Project/hw3'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
