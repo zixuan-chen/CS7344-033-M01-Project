@@ -1,0 +1,1 @@
+run "./run.sh" to get the final result
